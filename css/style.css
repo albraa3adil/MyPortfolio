@@ -9203,6 +9203,10 @@ textarea.form-control {
   .heading-section h2 {
     font-size: 50px;
     font-weight: 700; }
+    .heading-section h3 {
+      font-size: 40px;
+      font-weight: 500;
+    }
     .heading-section h2 span {
       font-weight: 400; }
     @media (max-width: 767.98px) {
@@ -9673,6 +9677,9 @@ textarea.form-control {
   -moz-user-select: none;
   -ms-user-select: none;
   user-select: none;
+}
+.proj-card {
+  background-color: #1a1a1a;
 }
 
 @media (min-width: 768px) {
