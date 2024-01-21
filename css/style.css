@@ -9687,6 +9687,9 @@ textarea.form-control {
 .owl-carousel.owl-drag .owl-item {
   touch-action: auto !important;
 }
+.scroll-mt {
+  scroll-margin-top: 76px;
+}
 
 @media (min-width: 768px) {
   .bd-placeholder-img-lg {
